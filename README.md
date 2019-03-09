@@ -1,2 +1,65 @@
 # Actividad1
-est una pagina web
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="iso-8559-1"/>
+		<meta name="description" content="Actividad Dos"/>
+		<meta name="keywords" content="notas periodisticas"/>
+		<meta name="author" content="Jesus Emmanuel Bautista Martinez, jbautista2816@pue.conalep.edu.mx"/>
+		<meta name="copyrigth" content="Conalep 153"/>
+		<title> Datos Personales </title>
+	</head>
+	<body style="background-color:#00FF00;">
+		<header>
+			<hgroup>
+				<h1> Actividad 2 </h1>
+					<h2>Revés para mercado de alcalde de Teziutlán</h2>
+						</h3>El Instituto Nacional de Antropología e Historia (INAH) dio marcha atrás a los trabajos del mercado Techumbre que emprendió el presidente municipal, Carlos Peredo Grau, sobre una calle lateral a la alcaldía, por lo que el proyecto deberá modificarse para una construcción subterránea, además de convertir en peatonal dicha vialidad.<br>
+
+Lo anterior, luego de que, a principio de este año, el edil dio a conocer el inicio de estas acciones de rehabilitación, para lo cual y en común acuerdo con los comerciantes asentados en este lugar, fueron removidos provisionalmente al parque municipal, en tanto y se desarrollaban las obras, al tiempo que un grupo de opositores, encabezados por Mercedes y Concepción González Molina, solicitaron la intervención del INAH para lograr rescatar esta calle que fue convertida en mercados.</h3>			
+<br>En este sentido, Peredo Grau dijo que al inicio de esta obra de rehabilitación, fueron creados dos proyectos que fueron presentados a los comerciantes, un Plan A, que contemplaba la creación de 160 locales comerciales sobre dicho sitio y un Plan B, que proyectaba la construcción de los mismos, pero de manera subterránea, siendo la decisión de los locatarios, optar por el primer proyecto.
+<br>De lo anterior, dijo que ambos proyectos, también fueron presentados al INAH, mismo que determinó la viabilidad de llevar a cabo el Plan B, es decir que estos locales queden en la parte inferior, para que en la parte superior, se pueda aperturar un paso peatonal, aclarando que este organismo, interviene en los edificios históricos que tiene una antigüedad mayor a 100 años, pero al ser esta construcción del año 1945, sí tiene la capacidad jurídica de reglamentar los centro de ciudades históricas, como es el caso de Teziutlán.
+<br>Ante ello, según dijo el edil, fue citado por Ambrosio Guzmán Álvarez, director del centro regional del INAH en Puebla, para darle a conocer esta disposición, a fin de dejar libre las arcadas y columnas existentes en el lugar; por este motivo dicha orden fue dada a conocer a los comerciantes, quienes han acatado dicha decisión, ya que lo único que piden es contar con un espacio, donde poder trabajar.
+<br>En este sentido apuntó que “como autoridad soy respetuoso de los comerciantes, pero también del INAH y quiero que sepa la gente que sí los escuché”, enfatizando que, si bien dicho espacio quedará libre, será un espacio peatonal, en el que se prohíba la instalación de vendedores ambulantes, que pudieran afectar el trabajo de quienes serán reinstalados en la parte inferior.Por tanto, dejó en claro que como autoridad no permitirá que los comerciantes sigan siendo agredidos por grupos opositores al desarrollo del municipio, asegurando que sin duda será una obra de calidad y que vendrá a beneficia a todos en general.
+			</hgroup>
+                             <h2>Metas</h2>
+                             </h3>Las metas que tengo tanto a corto,mediano y largo plazo son:
+<br>Corto:<br>Entega las actividades de mis modulos.<br>Elegir una universidad.<br>Tener un feliz cumpleaños.<br>Hacer una buena particpacion en e concurso del TEC. 
+<br><br><br>Mediano:<br>Estudiar en una universidad.<br>Trabajar.<br>Convivir con  familia.<br>Hacer nevos amgos.
+<br><br><br>Largo:<br>Estar erminando mi universidad.<br>Ser màs independiente.<br>Viajar a otros sitios.</h3>
+                        <hgroup> 
+                        </hgroup>
+                       <hgroup>
+				
+					<h2>Hobbies y Expectativas</h2>
+						</h3>Mis pasatiempos son:
+<br>1.-Escuchar musica.<br>2.-Estar con mis mascotas.<br>3.-Estar con mi familia.<br>4.-Dar paseos.<br>5.-Jugar videojuegos.<br>6.-Hablar.<br>7.-Etc</h3>			
+			</hgroup>
+		</header>
+		<section>
+			<article>
+				<p>Expectativas
+				</p>
+			</article>
+			<article>
+				<div>
+					Las expectativas qe tengo son:
+				</div>
+			</article>
+		</seccion>
+		<aside>
+			<blockquote>
+				<p> 
+				<br>
+				-Terminar bien ms estudios.<br>-Entrar a una universidad.<br>-Recuperarme de mi esgince.<br>-Disfrutar suer bien los pocs mese que me quedan con mis amigos XD.<br>-Mimar a mi cachorro. 
+				</p>
+			</blockquote>
+			<blockquote cite="https://definicion_de/hipertexto/">
+				<p>REFERENCIA</p>
+			</blockquote>
+		</aside>
+	</body>
+	<footer>
+		Derechos reservados &copy; 2018-2019
+	</footer>
+</html>
